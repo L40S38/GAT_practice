@@ -1,5 +1,0 @@
-graph { 
-  X -- Y
-  X -- Y
-  Y -- Z [color=red]
-} 
